@@ -1,0 +1,4 @@
+this is initial version 1 of project
+ i want this to go into commit 2
+change by VJ
+again doing some changes
